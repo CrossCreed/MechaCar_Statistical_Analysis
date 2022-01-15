@@ -25,3 +25,9 @@ If we reject the null hypothesis, we're stating the alternative (β1 ≠ 0) is t
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 > The model predicts mpg of MechaCar prototypes effectively because of the adjusted R-squared value of 0.6825 which is relatively high meaning a good amount of variables passed through the regression.
+
+## Summary Statistics on Suspension Coils
+
+* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+> The overall variance shows the current manufacturing data meets the 100 lb/sq inch variance limitation. However, when separated into the three lots, the third lot shows a much higher variance of 170.286, which could indicate that this lot does not meet the necessary suspension coil requirement.
+
