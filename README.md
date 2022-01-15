@@ -34,3 +34,15 @@ If we reject the null hypothesis, we're stating the alternative (β1 ≠ 0) is t
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 > The overall variance shows the current manufacturing data meets the 100 lb/sq inch variance limitation. However, when separated into the three lots, the third lot shows a much higher variance of 170.286, which could indicate that this lot does not meet the necessary suspension coil requirement.
 
+## T-Tests on Suspension Coils
+
+__T-Test on Entire Lot__
+
+__T-Test on Lot One__
+
+__T-Test on Lot Two__
+
+__T-Test on Lot Three__ 
+
+From the data above, we fail to reject the null hypothesis for the test on the entire lot. Separately speaking, for lots one and two we fail to reject the null hypothesis, only able to reject the null hypothesis for lot three. 
+
