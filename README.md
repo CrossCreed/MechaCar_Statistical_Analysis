@@ -10,13 +10,18 @@ The goal of this project was to analyze certain metrics that affect the manufact
 
 ## Linear Regression to Predict MPG
 
+![Deliverable1 1](https://user-images.githubusercontent.com/89520192/149607380-69981c96-1edd-4afb-8c59-d67432bbcb23.PNG)
+
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-The intercept, vehicle_lenth and ground_clearance variables provided a non-random amount of variance (also denoted by 0) in the dataset.
+
+> The intercept, vehicle_lenth and ground_clearance variables provided a non-random amount of variance (also denoted by 0) in the dataset.
 
 * Is the slope of the linear model considered to be zero? Why or why not?
-The significance level of 0.05 allows us to reject the null hypothesis because of the small p-value. Null hypothesis of a linear regression model is that slope = 0 (β1 = 0).
+
+> The significance level of 0.05 allows us to reject the null hypothesis because of the small p-value. Null hypothesis of a linear regression model is that slope = 0 (β1 = 0).
 If we reject the null hypothesis, we're stating the alternative (β1 ≠ 0) is true. This means that the slope of the linear model is is not considered to be zero.   
 
 
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-The model predicts mpg of MechaCar prototypes effectively because of the adjusted R-squared value of 0.6825 which is relatively high meaning a good amount of variables passed through the regression.
+
+> The model predicts mpg of MechaCar prototypes effectively because of the adjusted R-squared value of 0.6825 which is relatively high meaning a good amount of variables passed through the regression.
