@@ -38,11 +38,19 @@ If we reject the null hypothesis, we're stating the alternative (β1 ≠ 0) is t
 
 __T-Test on Entire Lot__
 
+![Deliverable3 1](https://user-images.githubusercontent.com/89520192/149609859-1dd77684-4945-4526-98d5-50cbaaa2fd25.PNG)
+
 __T-Test on Lot One__
+
+![Deliverable3 2](https://user-images.githubusercontent.com/89520192/149609861-60278313-a4dd-4bb4-adc5-e17b73d4afb4.PNG)
 
 __T-Test on Lot Two__
 
+![Deliverable3 3](https://user-images.githubusercontent.com/89520192/149609863-7668a7a8-e8bb-4d34-9441-744a08a2ac8e.PNG)
+
 __T-Test on Lot Three__ 
+
+![Deliverable3 4](https://user-images.githubusercontent.com/89520192/149609864-82dd68b4-b16b-4bab-b8a0-5fda1f7075c0.PNG)
 
 From the data above, we fail to reject the null hypothesis for the test on the entire lot. Separately speaking, for lots one and two we fail to reject the null hypothesis, only able to reject the null hypothesis for lot three. 
 
