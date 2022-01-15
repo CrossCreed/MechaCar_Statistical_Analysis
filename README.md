@@ -57,17 +57,23 @@ From the data above, we fail to reject the null hypothesis for the test on the e
 ## Study Design: MechaCar vs Competition
 
 Overview:
-* Linear regression study to measure fuel efficiency on highways of cars from MechaCar vs the competition.
+> Linear regression study to measure fuel efficiency on highways of cars from MechaCar vs the competition.
 
-Metrics:
+**Metrics:**
+
 Dependent - Highway Fuel Efficiency 
+
 Independent - AWD Feature
+
 Independent - Vehicle Weight
+
 Independent - Vehicle HP (Horsepower)
+
 Indepentent - MPG (Miles Per Gallon)
 
-Null Hypothesis - MechaCar has better highway fuel efficiency than the competitor based on the metrics in the study.
-Alternative Hypothesis - MechaCar does NOT have better highway fuel efficiency than the competitor based on the metrics in this study.
+**Null Hypothesis** - MechaCar has better highway fuel efficiency than the competitor based on the metrics in the study.
+
+**Alternative Hypothesis** - MechaCar does NOT have better highway fuel efficiency than the competitor based on the metrics in this study.
 
 You would use a multiple linear regression model to determine a possible answer because it compares multiple metrics, and could probably even compare the relationships between the metrics allowing for a deeper analysis. 
 
